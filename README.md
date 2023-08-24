@@ -1,6 +1,6 @@
 # Battleship Game - HTML, CSS, and jQuery
 
-![Battleship](https://drive.google.com/uc?id=1A1_HEds8zs9Yt2LtO7d92Xy8SeWnGCKB)
+![Battleship](img/Screenshot_20230824_221044-1.png)
 
 This repository contains a Battleship game implemented as part of an assignment for the **Design and Analysis** course in our Master's program. The game is built using HTML, CSS, and jQuery, and it allows players to play the classic game of Battleship.
 
