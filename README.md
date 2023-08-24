@@ -1,9 +1,16 @@
 # Battleship Game - HTML, CSS, and jQuery
+## Demo
+
+You can play a live demo of the Battleship game here: [Demo Link](https://your-demo-link.com)
+
 
 ![Battleship](img/Screenshot_20230824_221044-1.png)
 
 This repository contains a Battleship game implemented as part of an assignment for the **Design and Analysis** course in our Master's program. The game is built using HTML, CSS, and jQuery, and it allows players to play the classic game of Battleship.
 
+## Demo
+
+You can play a live demo of the Battleship game here: [click here](https://your-demo-link.com)
 ## Table of Contents
 
 - [Introduction](#introduction)
