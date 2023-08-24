@@ -33,7 +33,7 @@ $("document").ready(function () {
     let row = 0;
     for (let index = 1; index < 11; index++) {
       let div = document.createElement("img");
-      div.src = "../img/water.gif";
+      div.src = "img/water.gif";
       let col = index;
       div.className = "board__square border hover:border-slate-800";
       let id = row + "" + (col - 1);
@@ -71,7 +71,7 @@ $("document").ready(function () {
     }
     div.onclick = () => { };
     setInterval(() => {
-      div.src = "../img/water.gif";
+      div.src = "img/water.gif";
       div.className = "board__square_disable disabled";
       if (chances === 0) {
         alert("You Lost")
